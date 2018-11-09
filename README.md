@@ -1,5 +1,4 @@
 # NPM-Vuln-PoC
-
 This repository contains the proof-of-concepts for vulnerabilities discovered in npm packages. 
 
 **Warning:** This repo will install vulnerable npm packages and test them to demonstrate the vulnerabilities. So running this project in a **VM** (with **Linux** or **Mac OS**) is highly recommended.
