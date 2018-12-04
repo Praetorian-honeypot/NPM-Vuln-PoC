@@ -1,1 +1,3 @@
 arbitrary-write/* linguist-vendored
+directory-traversal/* linguist-vendored
+static/* linguist-vendored
